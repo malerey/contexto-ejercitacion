@@ -55,7 +55,7 @@ const feedsource = [
 
 6. Una vez hecha la aplicacion, queremos agregar debajo de cada foto un boton para "dar like".
 
-7. Para dar like, un usuario debe estar logueado. Agreguemos un cuarto componente, una barra de navegacion, que incluya un boton "Iniciar sesion". 
+7. Para dar like, un usuario debe estar logueado. Agreguemos en la barra de navegacion un boton que diga "Iniciar sesion". 
 
 8. Si el usuario inicio sesion, veremos un nombre cualquiera en la barra de navegacion. Si el usuario esta logueado, vera la cantidad de likes que tiene una foto. Si no esta logueado, esa informacion permanece oculta. Cuando el usuario de like a una foto, el contador subira 1 para esa foto. 
 
